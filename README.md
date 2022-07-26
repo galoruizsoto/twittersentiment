@@ -1,4 +1,4 @@
-# twittersentiment
+# US airlines sentiment analysis from Twitter 
 In this paper I will try to predict the sentiment of the users when they write a tweet about their experience when flying with different US airlines. The dataset is publicly available at
 https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment.
 
